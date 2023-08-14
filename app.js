@@ -1,5 +1,5 @@
-const items         =document.getElementById('items') //Tenia espacio en =doccument 
-const templateCard  =document.getElementById('template-card').content //Tenia espacio en =doccument 
+const items         =document.getElementById('items') //Tenía espacio en =doccument 
+const templateCard  =document.getElementById('template-card').content //Tenía espacio en =doccument 
 const fragmento     =document.createDocumentFragment()
 
 document.addEventListener('DOMContentLoaded', () => {
