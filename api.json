@@ -2,84 +2,84 @@
     {
         "precio": 10.00,
         "id": 1,
-        "title": "New",
-        "thumbnailURL":"https://ivanestudios76.000webhostapp.com/Golosinas/1.jpg"
+        "title": "Pelón Pelo Rico",
+        "thumbnailUrl":"https://ivanestudios76.000webhostapp.com/Golosinas/1.jpg"
     },
 
     {
         "precio": 20.00,
         "id": 2,
-        "title": "New",
-        "thumbnailURL":"https://ivanestudios76.000webhostapp.com/Golosinas/2.jpg"
+        "title": "Chips Ahoy!",
+        "thumbnailUrl":"https://ivanestudios76.000webhostapp.com/Golosinas/2.jpg"
     },
 
     {
         "precio": 35.00,
         "id": 3,
-        "title": "New",
-        "thumbnailURL":"https://ivanestudios76.000webhostapp.com/Golosinas/3.jpg"
+        "title": "Palomitas",
+        "thumbnailUrl":"https://ivanestudios76.000webhostapp.com/Golosinas/3.jpg"
     },
 
     {
         "precio": 10.00,
         "id": 4,
-        "title": "New",
-        "thumbnailURL":"https://ivanestudios76.000webhostapp.com/Golosinas/4.jpg"
+        "title": "Ring Pop Gummy",
+        "thumbnailUrl":"https://ivanestudios76.000webhostapp.com/Golosinas/4.jpg"
     },
 
     {
         "precio": 5.00,
         "id": 5,
-        "title": "New",
-        "thumbnailURL":"https://ivanestudios76.000webhostapp.com/Golosinas/5.jpg"
+        "title": "Duvalín",
+        "thumbnailUrl":"https://ivanestudios76.000webhostapp.com/Golosinas/5.jpg"
     },
 
     {
         "precio": 15.00,
         "id": 6,
-        "title": "New",
-        "thumbnailURL":"https://ivanestudios76.000webhostapp.com/Golosinas/6.jpg"
+        "title": "HotNuts",
+        "thumbnailUrl":"https://ivanestudios76.000webhostapp.com/Golosinas/6.jpg"
     },
 
     {
         "precio": 25.00,
         "id": 7,
-        "title": "New",
-        "thumbnailURL":"https://ivanestudios76.000webhostapp.com/Golosinas/7.jpg"
+        "title": "Ruffles Crunch",
+        "thumbnailUrl":"https://ivanestudios76.000webhostapp.com/Golosinas/7.jpg"
     },
 
     {
         "precio": 20.00,
         "id": 8,
-        "title": "New",
-        "thumbnailURL":"https://ivanestudios76.000webhostapp.com/Golosinas/8.jpg"
+        "title": "Pringles Original",
+        "thumbnailUrl":"https://ivanestudios76.000webhostapp.com/Golosinas/8.jpg"
     },
 
     {
         "precio": 8.00,
         "id": 9,
-        "title": "New",
-        "thumbnailURL":"https://ivanestudios76.000webhostapp.com/Golosinas/9.jpg"
+        "title": "Sour Punch",
+        "thumbnailUrl":"https://ivanestudios76.000webhostapp.com/Golosinas/9.jpg"
     },
 
     {
         "precio": 15.00,
         "id": 10,
-        "title": "New",
-        "thumbnailURL":"https://ivanestudios76.000webhostapp.com/Golosinas/10.jpg"
+        "title": "Hershey's",
+        "thumbnailUrl":"https://ivanestudios76.000webhostapp.com/Golosinas/10.jpg"
     },
 
     {
         "precio": 17.00,
         "id": 11,
-        "title": "New",
-        "thumbnailURL":"https://ivanestudios76.000webhostapp.com/Golosinas/11.jpg"
+        "title": "Doritos",
+        "thumbnailUrl":"https://ivanestudios76.000webhostapp.com/Golosinas/11.jpg"
     },
 
     {
         "precio": 10.00,
         "id": 12,
-        "title": "New",
-        "thumbnailURL":"https://ivanestudios76.000webhostapp.com/Golosinas/12.jpg"
+        "title": "M&M's",
+        "thumbnailUrl":"https://ivanestudios76.000webhostapp.com/Golosinas/12.jpg"
     }
 ]
